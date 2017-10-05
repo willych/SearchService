@@ -1,0 +1,85 @@
+.inputBox{
+	background-image: linear-gradient(top, rgba(0, 0, 0, 0.02) 0%, rgba(255, 255, 255, 0.02) 50%);
+ 
+    border: 1px solid rgba(0, 0, 0, 0.16);
+    height: 30px;
+    padding: 5px 10px 5px 5px;
+    font-size: 15px;
+    width: 200px;
+    border-radius: 3px;	
+}
+#map{
+ height: 350px;
+ width: 600px;
+}
+
+.tabs ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.tabs ul li {
+  float: left;
+  padding: 10px;
+  text-transform: uppercase;
+}
+
+.tabs ul li a {
+  color: #ccc;
+  text-decoration: none;
+}
+
+.tabs ul li.active {
+  background-color: rgb(250, 250, 250);
+  color: #fff;
+}
+
+.tabs ul li.active a { color: rgb(223, 117, 20); }
+
+.tabs ul li:last-child { border-left: none; }
+
+.tabs ul li:first-child { border-right: none; }
+
+.tab-block {
+  background: rgb(250, 250, 250);
+  clear: both;
+  padding: 10px;
+}
+
+
+/*Loading bar*/
+.loading { margin: auto; }
+
+.loading span {
+  line-height: 32px;
+  margin-left: 12px;
+  font-size: 16px;
+  vertical-align: middle;
+}
+
+.loading img { vertical-align: middle; }
+
+.loading_wrp {
+  background-color: #FFF;
+  display: block;
+  height: 100%;
+  left: 0;
+  opacity: 0.5;
+  filter: alpha(opacity=50);
+  position: absolute;
+  top: 0;
+  width: 100%;
+  z-index: 1020;
+}
+
+.loading_wrp .x16 span {
+  line-height: 16px;
+  font-size: 12px;
+  margin-left: 6px;
+}
+
+.loading_wrp .x32 img {
+  width: 32px;
+  height: 32px;
+}

@@ -1,0 +1,14 @@
+d:\users\bob\documents\visual studio 2013\Projects\SearchService\SearchService\bin\Debug\SearchService.exe.config
+d:\users\bob\documents\visual studio 2013\Projects\SearchService\SearchService\bin\Debug\SearchService.exe
+d:\users\bob\documents\visual studio 2013\Projects\SearchService\SearchService\bin\Debug\SearchService.pdb
+d:\users\bob\documents\visual studio 2013\Projects\SearchService\SearchService\obj\Debug\SearchService.csprojResolveAssemblyReference.cache
+d:\users\bob\documents\visual studio 2013\Projects\SearchService\SearchService\obj\Debug\SearchService.FrmSearch.resources
+d:\users\bob\documents\visual studio 2013\Projects\SearchService\SearchService\obj\Debug\SearchService.FrmResults.resources
+d:\users\bob\documents\visual studio 2013\Projects\SearchService\SearchService\obj\Debug\SearchService.Properties.Resources.resources
+d:\users\bob\documents\visual studio 2013\Projects\SearchService\SearchService\obj\Debug\SearchService.csproj.GenerateResource.Cache
+d:\users\bob\documents\visual studio 2013\Projects\SearchService\SearchService\obj\Debug\SearchService.exe
+d:\users\bob\documents\visual studio 2013\Projects\SearchService\SearchService\obj\Debug\SearchService.pdb
+d:\users\bob\documents\visual studio 2013\Projects\SearchService\SearchService\bin\Debug\CookComputing.XmlRpcV2.dll
+d:\users\bob\documents\visual studio 2013\Projects\SearchService\SearchService\bin\Debug\Newtonsoft.Json.dll
+d:\users\bob\documents\visual studio 2013\Projects\SearchService\SearchService\bin\Debug\Newtonsoft.Json.pdb
+d:\users\bob\documents\visual studio 2013\Projects\SearchService\SearchService\bin\Debug\Newtonsoft.Json.xml
